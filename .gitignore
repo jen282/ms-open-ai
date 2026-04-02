@@ -4,3 +4,4 @@
 
 # yolo model: 용량 커서 업로드 불가
 yolov3.weights
+*.pt
